@@ -63,11 +63,11 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
-#false{
+.false{
   background-color:rgb(255, 75, 44);
-  padding: 4px;
+  padding: 10px;
 }
-#true{
+.true{
   background-color: aqua;
-  padding: 4px;
+  padding: 10px;
 }
